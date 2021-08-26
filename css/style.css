@@ -1,3 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Rampart+One&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
 .barre-nav, footer{
     background-color: #6A5C59;
 }
@@ -6,3 +14,10 @@
     min-height: 86vh;
 }
 
+h1{
+    font-family: 'Rampart One', cursive !important;
+}
+
+p{
+    text-align: justify !important;
+}
