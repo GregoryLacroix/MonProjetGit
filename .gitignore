@@ -1,0 +1,5 @@
+# Le fichier gitignore permet d'indiquer à GIT quel fichier ou quel dossier ne doit pas être versionné sur GITHUB
+# Nous indiquons que le dossier 'videos' ne doit pas être versionné sur GITHUB
+# Nous indiquons que le fichier 'branch.txt' ne doit pas être versionné sur GITHUB
+/assets/videos 
+/branch.txt
