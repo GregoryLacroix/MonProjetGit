@@ -14,7 +14,7 @@ body{
     min-height: 86vh;
 }
 
-h1{
+h1, h3, .titre-nav{
     font-family: 'Rampart One', cursive !important;
 }
 
