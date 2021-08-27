@@ -1,0 +1,17 @@
+
+
+
+
+     /---------- Branch DEV1 ----------------------------------------
+    /                                                                \
+   /                                                                  \
+  /                                                             pousse la branche sur GITHUB
+ /                                                                      \
+/                                                                        \
+------------------------------------------ branch principal MASTER ----- comparer et on fusionne ---------------->
+\                                                                        /
+ \                                                                      /    
+  \                                                             pousse la branche sur GITHUB  
+   \                                                                  /
+    \                                                                /
+     \--------- Branch DEV2 -----------------------------------------
