@@ -3,3 +3,4 @@
 # Nous indiquons que le fichier 'branch.txt' ne doit pas être versionné sur GITHUB
 /assets/videos 
 /branch.txt
+
