@@ -21,3 +21,9 @@ h1, h3, .titre-nav{
 p{
     text-align: justify !important;
 }
+
+.maContrib{
+    background: greenyellow;
+    color: hotpink;
+    font-size: 7em;
+}
